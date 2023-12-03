@@ -7,7 +7,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <router-link class="nav-link" to="/" style="margin-right: 8px">Home</router-link>
-        <router-link class="nav-link" to="/about"> About </router-link>
+        <router-link class="nav-link" to="/about" style="margin-right: 8px"> About </router-link>
         <router-link class="nav-link" to="/persons"> Persons </router-link>
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
