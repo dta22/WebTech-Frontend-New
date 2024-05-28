@@ -1,4 +1,4 @@
-# frontend
+npm cache clean# frontend
 
 ## Project setup
 ```
